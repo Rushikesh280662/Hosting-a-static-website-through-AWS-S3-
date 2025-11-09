@@ -1,4 +1,4 @@
-# Hosting a Static Website on AWS S3 — Step-by-step README
+# Hosting a Static Website on AWS S3 Step-by-step README
 
 This document describes a clear, professional, step-by-step procedure to host a static website on Amazon S3 using the AWS Management Console. Follow the steps below exactly to create a public S3 bucket, upload your site assets, enable static website hosting, and make the objects accessible over the web.
 
