@@ -116,7 +116,7 @@ https://potfolowebsidedase.s3.us-east-1.amazonaws.com/index.html
 ---
 
 ## Final notes
-- after all this stuff if you think You now have a publicly accessible static website hosted on S3 yes it is.
+- after all this stuff if you think You now have a publicly accessible static website hosted on S3 yes it is. and please disable ststic web hosting when you done with it, it's a paid servive yo know!
 
   ## Author
 **Rushikesh Dase**  
